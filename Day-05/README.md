@@ -1,4 +1,4 @@
-## Day 01: Doesn't He Have Intenr-Elves For This?
+## Day 05: Doesn't He Have Intern-Elves For This?
 
 #### Challenge description - https://adventofcode.com/2015/day/5
 
